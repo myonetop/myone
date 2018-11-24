@@ -20,3 +20,6 @@ $ chmod +x myscript.py
 
 sudo rm /var/lib/dpkg/lock
 sudo dpkg --configure -a
+
+
+https://support.rackspace.com/how-to/installing-mysql-server-on-ubuntu/
