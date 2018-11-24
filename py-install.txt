@@ -10,6 +10,8 @@ pip install pyinstaller
 pyinstaller -w -F -i "E:\python\001\l.ico" mysqldb.py
 
 
+http://openbookproject.net/thinkcs/python/english3e/app_c.html
+
 #!/usr/bin/env python3
 $ chmod +x myscript.py
 
