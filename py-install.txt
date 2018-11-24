@@ -16,3 +16,7 @@ http://openbookproject.net/thinkcs/python/english3e/app_c.html
 $ chmod +x myscript.py
 
 // Move myscript.py into your bin directory
+
+
+sudo rm /var/lib/dpkg/lock
+sudo dpkg --configure -a
