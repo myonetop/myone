@@ -1,0 +1,16 @@
+
+pip config set global.cert D:\ca.crt
+python -m pip install bs4
+python -m pip install --upgrade pip
+// pip install MySQL-python
+
+
+python -m pip install mysql-connector
+pip install pyinstaller
+pyinstaller -w -F -i "E:\python\001\l.ico" mysqldb.py
+
+
+#!/usr/bin/env python3
+$ chmod +x myscript.py
+
+// Move myscript.py into your bin directory
