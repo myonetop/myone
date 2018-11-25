@@ -1,0 +1,32 @@
+https://stackoverflow.com/questions/13444738/how-to-use-a-socks-5-proxy-with-curl
+https://forum.opencart.com/viewtopic.php?t=185264
+https://forum.opencart.com/viewtopic.php?t=87368
+
+
+http://qaru.site/questions/408638/pcntlfork-returning-fatal-error-call-to-undefined-function-pcntlfork
+http://www.php-cli.com/php-cli-tutorial.shtml
+https://stackoverflow.com/questions/33036773/how-to-enable-pcntl-in-php-while-using-a-framework-like-symfony2
+
+6.44.168.149:36082
+Login: 3d19
+Password: DhjZjI4Y
+
+173.208.219.50:52486
+Login: d9784608
+Password: e7ce6a3f
+
+194.60.207.125:11802
+Login: 3d19
+Password: DJlMWEyZ
+
+84.104.28.130:17057
+Login: 3d19
+Password: DQyYTE0M
+
+83.128.9.165:20590
+Login: 3d19
+Password: DUwNmU1M
+
+213.125.120.14:42808
+Login: 3d19
+Password: GE3MzhhN
