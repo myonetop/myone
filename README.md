@@ -19,3 +19,7 @@ and here i already look how many table we need basically
 1. write code to remove all remarks from file
 2. write a code to separately copy each table content in a new file
 3. now you have some file that need to be change in format that can be convert to sql
+
+https://console.aws.amazon.com/s3/buckets/angelcorporation/?region=us-east-1&tab=overview
+
+https://medium.com/@maskaravivek/web-hosting-using-php-and-mysql-on-aws-95bd5df0bd75
