@@ -48,3 +48,6 @@ before the transition page
 I want a prompt that says "what clause or keywords are you looking for"
 user enters data
 then transition page begins and goes to results page
+
+
+https://www.dropbox.com/s/c74vlk978usj9me/Screen%20Shot%202019-02-05%20at%209.39.19%20AM.png?dl=0
