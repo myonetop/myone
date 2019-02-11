@@ -25,7 +25,26 @@ https://console.aws.amazon.com/s3/buckets/angelcorporation/?region=us-east-1&tab
 https://medium.com/@maskaravivek/web-hosting-using-php-and-mysql-on-aws-95bd5df0bd75
 
 
-https://www.dropbox.com/s/4hqrw06xogkywx8/shaform-master.zip?dl=0
+I have a two page python app using flask framework. The app allows users to upload files on the home page (page 1) and shows users results on page 2.
 
-https://drive.google.com/file/d/142-XBl0qTfscw1PMXfPdYHyKnDmBl0mE/view?usp=sharing
-https://drive.google.com/file/d/1pZmnnamv2GVap159pviPZje997ypgCPP/view?usp=sharing
+I need a few simple modifications:
+
+1. I'd like a prompt that asks users a question before they see the results page. We'll collect the users answers
+
+2. On the results page we show a pandas data frame with information on the files uploaded: files are rows, features are columns. I want the user to be able to add columns to the table.
+
+this is what I want
+I already have the table created
+it takes the file you upload and compares it to a list of strings
+I want the user to add columns
+in the browser
+
+ok so this is the first task
+the second one is much easier
+
+after user uploads the files, there is a transition page, and then the results page
+Yes
+before the transition page
+I want a prompt that says "what clause or keywords are you looking for"
+user enters data
+then transition page begins and goes to results page
